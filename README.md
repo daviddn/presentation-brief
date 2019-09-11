@@ -16,10 +16,10 @@ Outlines the Presentation
 
 ## Sections
 
-Focus towards delivering on Objectives
-Lead in
-Content (Rule of 3)
-Key takeaway - Summary
+- Focus towards delivering on Objectives
+- Lead in
+- Content (Rule of 3)
+- Key takeaway - Summary
 
 ## Conclusion/Summary
 
