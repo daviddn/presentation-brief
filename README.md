@@ -17,7 +17,7 @@
 ## Sections
 
 - Focus towards delivering on Objectives
-- Lead in
+-   Lead in
 - Content (Rule of 3)
 - Key takeaway - Summary
 
