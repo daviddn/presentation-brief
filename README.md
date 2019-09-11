@@ -4,15 +4,15 @@
 
 ## Introduction
 
-Set out Objectives
+- Set out Objectives
 
 ## Background
 
-If needed
+- If needed
 
 ## Outline/Agenda
 
-Outlines the Presentation
+- Outlines the Presentation
 
 ## Sections
 
@@ -23,6 +23,6 @@ Outlines the Presentation
 
 ## Conclusion/Summary
 
-Mirror Introduction and deliver Objectives
+- Mirror Introduction and deliver Objectives
 
 ## Any Questions?
