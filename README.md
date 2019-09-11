@@ -1,9 +1,28 @@
-# README For Presentation
+# Structuring a Presentation
 
-This is some text :)
+## Angle/Objective/Thesis - Then 3 Sections that support that
 
-## This is a H2 header
+## Introduction
 
-This is more text
+Set out Objectives
 
-### I'm an H3 header
+## Background
+
+If needed
+
+## Outline/Agenda
+
+Outlines the Presentation
+
+## Sections
+
+Focus towards delivering on Objectives
+Lead in
+Content (Rule of 3)
+Key takeaway - Summary
+
+## Conclusion/Summary
+
+Mirror Introduction and deliver Objectives
+
+## Any Questions?
